@@ -30,6 +30,7 @@ C++
 | [0014-longest-common-prefix](https://github.com/shrawan243/DSA/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrawan243/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/shrawan243/DSA/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/shrawan243/DSA/tree/master/0283-move-zeroes) |
 ## Trie
 |  |
 | ------- |
@@ -42,4 +43,8 @@ C++
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shrawan243/DSA/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/shrawan243/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
