@@ -9,7 +9,7 @@ public:
         {
             min=prices[i];
         }
-       if(prices[i]-min>maxp)
+      else if(prices[i]-min>maxp)
        {
         maxp=prices[i]-min;
        }
