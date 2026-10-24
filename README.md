@@ -21,6 +21,7 @@ C++
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrawan243/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shrawan243/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shrawan243/DSA/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/shrawan243/DSA/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,6 +54,7 @@ C++
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shrawan243/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/shrawan243/DSA/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
