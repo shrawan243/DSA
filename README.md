@@ -32,6 +32,7 @@ C++
 | [0014-longest-common-prefix](https://github.com/shrawan243/DSA/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/shrawan243/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrawan243/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/shrawan243/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shrawan243/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shrawan243/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shrawan243/DSA/tree/master/0283-move-zeroes) |
@@ -71,4 +72,8 @@ C++
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shrawan243/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shrawan243/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
