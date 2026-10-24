@@ -30,6 +30,7 @@ C++
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shrawan243/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/shrawan243/DSA/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/shrawan243/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrawan243/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shrawan243/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shrawan243/DSA/tree/master/0217-contains-duplicate) |
@@ -41,6 +42,7 @@ C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shrawan243/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrawan243/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -55,6 +57,7 @@ C++
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shrawan243/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/shrawan243/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shrawan243/DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
