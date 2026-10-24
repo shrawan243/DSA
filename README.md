@@ -28,6 +28,7 @@ C++
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shrawan243/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/shrawan243/DSA/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrawan243/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shrawan243/DSA/tree/master/0169-majority-element) |
@@ -53,6 +54,7 @@ C++
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shrawan243/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/shrawan243/DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -62,4 +64,8 @@ C++
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shrawan243/DSA/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shrawan243/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
