@@ -26,6 +26,7 @@ C++
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrawan243/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/shrawan243/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@ C++
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrawan243/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shrawan243/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shrawan243/DSA/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/shrawan243/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/shrawan243/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shrawan243/DSA/tree/master/0283-move-zeroes) |
 ## Trie
@@ -79,6 +81,7 @@ C++
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shrawan243/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/shrawan243/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,4 +90,8 @@ C++
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shrawan243/DSA/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shrawan243/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
