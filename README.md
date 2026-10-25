@@ -31,6 +31,7 @@ C++
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shrawan243/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/shrawan243/DSA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/shrawan243/DSA/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/shrawan243/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrawan243/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shrawan243/DSA/tree/master/0136-single-number) |
@@ -49,11 +50,13 @@ C++
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shrawan243/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/shrawan243/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shrawan243/DSA/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shrawan243/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/shrawan243/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/shrawan243/DSA/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
