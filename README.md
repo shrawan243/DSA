@@ -15,6 +15,7 @@ C++
 | [0013-roman-to-integer](https://github.com/shrawan243/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shrawan243/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shrawan243/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shrawan243/DSA/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ C++
 | [0013-roman-to-integer](https://github.com/shrawan243/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shrawan243/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/shrawan243/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/shrawan243/DSA/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -58,6 +60,7 @@ C++
 | [0015-3sum](https://github.com/shrawan243/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/shrawan243/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shrawan243/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shrawan243/DSA/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
